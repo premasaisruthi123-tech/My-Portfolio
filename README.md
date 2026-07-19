@@ -11,4 +11,4 @@ This is my personal portfolio website created using HTML and CSS. It contains my
 
 ## GitHub Repository Link
 
-https://github.com/yourusername/Portfolio
+ https://github.com/premasaisruthi123-tech/My-Portfolio.git
