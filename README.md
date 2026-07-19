@@ -1,11 +1,11 @@
 # Portfolio Website
 
 ## Description
-This is my personal portfolio website created using HTML and CSS. It contains my profile, skills, projects and contact information.
+This is my personal portfolio website created using HTML and CSS. It contains my profile, skills and contact information.
 
 ## Technologies Used
-- HTML5
-- CSS3
+- HTML
+- CSS
 - Git
 - GitHub
 
