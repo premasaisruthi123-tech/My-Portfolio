@@ -1,12 +1,14 @@
-# My Portfolio
+# Portfolio Website
 
 ## Description
-
-This is a simple portfolio website created using HTML and CSS.
+This is my personal portfolio website created using HTML and CSS. It contains my profile, skills, projects and contact information.
 
 ## Technologies Used
-
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Git
 - GitHub
+
+## GitHub Repository Link
+
+https://github.com/yourusername/Portfolio
