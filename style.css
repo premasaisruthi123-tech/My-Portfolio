@@ -23,6 +23,16 @@ header p {
   margin-top: 0.5rem;
 }
 
+/* Profile photo styling */
+.profile-pic img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 4px solid white;
+  margin-bottom: 1rem;
+  object-fit: cover;
+}
+
 .box {
   max-width: 800px;
   margin: 2rem auto;
@@ -30,6 +40,12 @@ header p {
   background: white;
   border-radius: 8px;
   box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.box:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
 }
 
 .box h2 {
@@ -47,6 +63,15 @@ ul {
 
 ul li {
   margin-bottom: 0.5rem;
+}
+
+a {
+  color: #0066cc;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
 }
 
 footer {
